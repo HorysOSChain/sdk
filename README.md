@@ -1,6 +1,6 @@
 # 🚀 Horyn OS
 
-CA Flaunch : will update ASAP
+CA flaunch.fun : 0x9db73C9598C08d2fb1A18b6Bd2B95aAeBc1b665f
 
 **Horyn OS** delivers a powerful, secure, and scalable system designed to drive the next era of digital innovation.
 
